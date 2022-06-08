@@ -28,6 +28,7 @@ const AddingForm = (props) => {
             <input type="submit" value="Add" />
         </form>
         <label>{summation}</label>
+        <h1>hello-fadi</h1>
         </>
    )
         };   
