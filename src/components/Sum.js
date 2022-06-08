@@ -14,6 +14,7 @@ const AddingForm = (props) => {
 
         return( 
             <>
+            <div>Summation Page</div>
         <form onSubmit={ AddingForm }>
             <div>
                 <label>Number1: </label> 
