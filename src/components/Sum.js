@@ -14,6 +14,7 @@ const AddingForm = (props) => {
 
         return( 
             <>
+            <div>Hello-dania</div>
             <div>Summation Page</div>
         <form onSubmit={ AddingForm }>
             <div>
